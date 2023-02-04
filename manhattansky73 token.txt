@@ -1,0 +1,20 @@
+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
+git:https://github.com
+manhattansky73
+https://github.com/manhattansky73/git-practice/settings/access
+
+https://github.com/manhattansky73/git-practice.git
+git@github.com:manhattansky73/git-practice.git
+
+echo "# git-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/manhattansky73/git-practice.git
+git push -u origin main
+
+git remote add origin git@github.com:manhattansky73/git-practice.git
+git branch -M main
+git push -u origin main
+

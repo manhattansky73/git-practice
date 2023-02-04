@@ -1,12 +1,9 @@
 team: Leopards
 
-<<<<<<< HEAD
-manager: Dooly
-=======
 manager: Lola
->>>>>>> bef76dc75206ee4fa0c0298d33c6708129ee223d
 
 coach: Melissa
+
 
 members:
 - Larray

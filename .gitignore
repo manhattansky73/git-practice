@@ -1,4 +1,10 @@
 /secrets.yaml
+*.config
+
+
+
+
+
 
 # 이렇게 #를 사용해서 주석
 

@@ -1,5 +1,5 @@
 # 기본 nginx 이미지 사용
-FROM 10.1.48.101:5000/nginx/nginx-unprivileged:stable-alpine
+FROM 10.1.48.101:5000/nginx-unprivileged:1.0
 
 # # 기본 nginx 환영 페이지 삭제
 # RUN rm /usr/share/nginx/html/index.html
